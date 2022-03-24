@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: 이주연
 ---
 <p>
 This theme is available for free under the MIT open source software license.
@@ -12,14 +12,59 @@ The theme requires <a href="https://jekyllrb.com">Jekyll</a>, a static-site gene
 
 <hr>
 
-<p>
-Maecenas tempus ullamcorper ante, sed eleifend purus mollis a. Sed ut molestie eros. Etiam arcu mi, consequat id ligula nec, faucibus dictum tortor. Ut tempus felis non commodo luctus. Nunc ac ullamcorper leo. Suspendisse et lorem eu leo iaculis vehicula nec vel mauris. Nullam eget porta ante.
-</p>
+# FOCUSED ON
 
-<p>
-Nunc tellus justo, pharetra sit amet blandit nec, mattis eu turpis. Praesent efficitur posuere nunc, non dapibus lectus placerat eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean a tincidunt velit. Nam ac ultricies metus. Morbi non erat ac nunc rutrum congue. Aliquam ultrices viverra felis quis pharetra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-</p>
+- *#모험심 #사용자 친화적 #시스템 기획*
+- 새롭게 시도하는 것을 두려워하지 않습니다.
+- 사용자 경험을 최우선으로 콘텐츠를 풀어냅니다.
+- 업무의 정교한 프로세스를 만드는 것을 좋아합니다.
 
-<p>
-Phasellus pellentesque odio eget massa finibus, in aliquam lectus tincidunt. Suspendisse potenti. Fusce nisi ipsum, facilisis sed nunc non, congue gravida augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut elementum nulla. Ut iaculis elit ac lectus elementum, mollis porta ex ultricies. Maecenas pretium lectus quis vulputate feugiat. Curabitur vitae ex in eros eleifend volutpat vitae sed dui.
-</p>
+---
+
+# 자기소개서
+
+울산애니메이션 고등학교에서 애니메이션을, 대학교에서 비쥬얼 커뮤니케이션 디자인과 순수미술을 전공했습니다. 두 학교 특성상 다양한 분야 (2D / 3D 애니메이션 제작, 그래픽 디자인, 영상제작, 사진 등)를 아울러 공부할 수 있는 기회가 많았습니다. 저는 시각적인/미적인 것은 종류를 불문하고 직접 만들어보고, 그것을 만드는 과정에서 얻는 경험을 소중하게 생각해왔습니다. 어떤 것을 만들더라도 그 매체의 특성을 고려할 수 있게 되었고, 특히 이 경험들은 제가 개발을 할 때에도 좀 더 유연한 사고로 접근할 수 있도록 도와주었습니다.
+
+제가 개발을 하고 있는 이유도 이 때문입니다. 하나의 프로젝트 안에는 다양한 매체가 들어있고, 그 부분들을 어떻게 더 효과적으로 보여주고 기능하게 만들어야할지 고민하는 과정이 이제껏 제가 겪어왔던 경험들과 비슷하고, 또 더 심화된 프로세스라고 생각합니다.  프로젝트들을 진행하면서 앞으로도 계속 변해갈 기술들을 배워가며 활동할 수 있을 것이라 확신합니다.
+
+## **PROBLEM SOLVING**
+
+### **일정과 퀄리티의 합리적인 조율**
+
+매일 아침 업무의 시작으로 오늘 하고 싶은 것, 해야 하는 것 등의 리스트를 작성합니다. 그리고 과거의 무얼 했는지 복기하면서 그동안 어떤 부분에서 관리를 더 잘할 수 있는지 반성하는 기회를 얻습니다. 진행 중인 프로젝트는 커다란 마일스톤을 그리고, 그 안에서 세세한 부분을 일, 주, 월별로 관리하며 전체적인 일정을 조율하는 편입니다.
+
+저는 개발뿐이 아닌 기획, 디자인도 병행했기 때문에, 일정을 관리하는 협업자가 따로 없으면 제가 혼자 프로젝트의 일정을 관리해야 했습니다. 그래서 프로젝트의 전체적인 업무와 시간 분배를 업무 초반에 진행했고, 그 일정을 토대로 담당자와 이야기하여 일정을 조율하기 시작했습니다. 완벽하지는 않지만 계속해서 다듬어나가는 일정을 통해 시간과 퀄리티의 합리적인 중간지점을 찾아 나갔습니다.
+
+### **어려울수록 작은 것 부터 쪼개어 문제를 해결**
+
+한 번에 해결하기 어려운 문제가 있으면 그 문제를 해결할 수 있는 작은 문제로 나누고, 작은 문제들을 해결하면서 큰 문제를 해결합니다. 어려운 문제나, 많은 양의 업무 같은 경우에는 한 번에 처리할 수 없기 때문에 최대한 작은 문제로 나누어 차분히 풀어나갑니다. 문제는 여러 단위가 될 수 있는데, 프로젝트와 구현 기능들, 그에 필요한 디자인 등을 각각 나누어 세분화하는 식으로 진행합니다.
+
+### **커뮤니케이션은 중요한 업무의 일환**
+
+제가 중요하게 생각하는 부분이기도 합니다. 정확하고 상대방이 이해할 수 있도록 생각하며 말할 수 있도록 노력합니다. 말로 안 되는 상황이라면 문서화하여 업무의 매뉴얼이나, 상황 설명, 문제 해결 방안 등을 정리하는 편입니다. 분위기도 중요하게 생각합니다. 다양한 방식으로 커뮤니케이션을 하다 보면 의도치 않게 실례되는 말을 할 수도 있기 때문에 상황과 분위기에 맞춰 상대방과의 대화시간을 의미 있고 즐거운 기억으로 남을 수 있도록 노력하는 편입니다.
+
+🛠️ **Uses**
+
+- Language
+    - C#
+    
+- Code Editor
+    - Visual Studio 2019
+    - Visual Studio Code
+
+- Tools
+    - Unity
+    - Photoshop
+    - Illustrator
+    - InDesign
+    - Premier Pro
+    - After Effect
+    - Blender
+    - Figma
+    - Notion
+    - Git
+
+<aside>
+🌟                                    Copyright -  Juyeon Lee. All rights reserved.
+
+</aside>
