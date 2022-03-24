@@ -1,16 +1,25 @@
-This is a Medium style Jekyll theme for anyone who want to create their website or Blog that look like Medium - a platform for people to read, write and share stories that matter. 
+# Slate+Simple Jekyll Theme
 
-# Mekyll (Beta version)
-Medium style Jekyll theme.     
-[Demo...](https://ifedyukin.github.io/Mekyll)    
----
-![Screenshot](./screenshot.png)
+Slate+Simple is a sleek and minimalistic theme for Jekyll blogs. It is based on the [Clean+Simple Theme](https://github.com/nathanrooy/Clean-and-Simple-Jekyll-Theme) by [Nathan Rooy](https://nathanrooy.github.io). 
 
-We are still developing this style theme. 
-If you want to get involved, simply:
+[Live demo.](https://benradford.github.io)
 
-* Fork the project and create a new branch;
-* Create an issue (optional);
-* Raise a 'Pull Request' citing the issue (if any) with that branch to merge into this master branch!   
+Slate+Simple is a light-on-dark theme that features crisp typography and includes featured images for posts. It is easily modified and provided under the MIT open source license to encourage community modifications and improvements. 
 
-You can offer any improvement to the theme - [Issue #3](https://github.com/ifedyukin/Mekyll/issues/3).
+<figure>
+<img src="slate+simple_screenshot.png">
+</figure>
+
+YAML headers include support for:
+
+* title
+* subtitle
+* author
+* featured-image
+* date-string
+* categories
+* tags
+
+Additionally, Slate+Simple supports [MathJax](https://www.mathjax.org) for beautiful equations and [Font Awesome](http://fontawesome.io/icons/). LaTeX math wrapped in `$$` will automatically compile to in-line or block images of formatted equations. Font awesome icons are included with the `i` tag. For example: `<i class='fa fa-github-alt'></i>`.
+
+
