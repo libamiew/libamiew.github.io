@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: KT Real Cube
 subtitle: 영상기반 터치 인터렉션 컨텐츠
-featured-image: /images/project/rapa2.png
+featured-image: /images/project/cat1.png
 tags: [Unity]
 date-string: FEBRUARY 12, 2021
 ---
@@ -12,7 +12,7 @@ date-string: FEBRUARY 12, 2021
 
 - 영상기반의 리듬감있는 터치 인터렉션 컨텐츠
 - 기획, 영상디자인, 게임개발 참여
-- 런처등의 시스템은 다른업체의 도움을 받아 진행
+- 런처 개발은 다른업체에서 진행
 
 ### Duration
 
