@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 이주연
+title: 안녕하세요
 ---
 
 <h1>FOCUSED ON</h1>
@@ -22,7 +22,8 @@ title: 이주연
 제가 개발을 하고 있는 이유도 이 때문입니다.
 하나의 프로젝트 안에는 다양한 매체가 들어있고, 그 부분들을 어떻게 더 효과적으로 보여주고 기능하게 만들어야할지 고민하는 과정이 이제껏 제가 겪어왔던 경험들과 비슷하고,
 또 더 심화된 프로세스라고 생각합니다.  프로젝트들을 진행하면서 앞으로도 계속 변해갈 기술들을 배워가며 활동할 수 있을 것이라 확신합니다.
-<br>
+<br><br>
+
 <h1>PROBLEM SOLVING</h1>
 <br>
 <h2>일정과 퀄리티의 합리적인 조율</h2>
@@ -39,24 +40,24 @@ title: 이주연
 <br>
 제가 중요하게 생각하는 부분이기도 합니다. 정확하고 상대방이 이해할 수 있도록 생각하며 말할 수 있도록 노력합니다. 말로 안 되는 상황이라면 문서화하여 업무의 매뉴얼이나, 상황 설명, 문제 해결 방안 등을 정리하는 편입니다. 분위기도 중요하게 생각합니다. 다양한 방식으로 커뮤니케이션을 하다 보면 의도치 않게 실례되는 말을 할 수도 있기 때문에 상황과 분위기에 맞춰 상대방과의 대화시간을 의미 있고 즐거운 기억으로 남을 수 있도록 노력하는 편입니다.
 <br><br>
-🛠️ **Uses**
+
+<h3>🛠️ Uses </h3>
 <br><br>
-- Language<br>
-    - C#<br>
+- Language : C#
 <br><br>
 - Code Editor<br>
-    - Visual Studio 2019<br>
-    - Visual Studio Code<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Visual Studio 2019<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Visual Studio Code<br>
 <br><br>
 - Tools<br>
-    - Unity<br>
-    - Photoshop<br>
-    - Illustrator<br>
-    - InDesign<br>
-    - Premier Pro<br>
-    - After Effect<br>
-    - Blender<br>
-    - Figma<br>
-    - Notion<br>
-    - Git<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Unity<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Photoshop<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Illustrator<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- InDesign<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Premier Pro<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- After Effect<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Blender<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Figma<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Notion<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Git<br>
 <br><br>
