@@ -10,32 +10,31 @@ date-string: FEBRUARY 12, 2021
 
 ### Introduction
 
-- 영상기반의 리듬감있는 터치 인터렉션 컨텐츠
-- 기획, 영상디자인, 게임개발 참여
-- 런처 개발은 다른업체에서 진행
+- 기획, 영상디자인, 개발 참여
+- 스토리를 따라 진행되는 영상기반 인터렉션 컨텐츠
+- 외부업체와의 협업을 통해 현장 센서 연동과 런처 프로그램의 구조 파악 및 구성
 
 ### Duration
 
-- 2020 . 10 ~ 2021.02
+- 2021 . 01 ~ 2021.05
 
 ### 🤝 개발 방식
 
 **Engine** : Unity
 
-**SDK :** Azure-Kinect 센서 SDK, Azure-Kinect Body Tracking SDK
+**Sensor :** RealSense
 
-**API** : Azure Kinect for Unity3D (Camera API + Body Tracking API)
+- 2D 애니메이션으로 버튼의 움직임 구현.
+- OSC 좌표를 센서에서 받아와 좌표값대로 레이캐스트를 쏘아서 클릭 이벤트 구현.
+- 로컬 디렉토리에 있는 JSON 파일을 읽고 쓰는 기능을 이용하여 총 4명의 유저데이터를 저장하고, 순위를 메기는 시스템 구현.
+- 영상리소스는 외부폴더에 따로빼서 관리하기 쉽도록 구성.
 
-- 바디트랙킹 기능을 이용해 뼈대정보를 포인트 클라우드로 띄우는 기능을 사용함
-- 사용자가 복도에 들어서면 공간 전체 스캔이 되고, 이어서 벌이 사용자를 훑어보며 지나가는 애니메이션을 유니티에서 구현했다.
-- 뼈대정보의 위치값을 이용해,  센서의 시작위치와 사용자의 위치값의 각도를 구한 후, 애니메이션 클립의 시간을 제어 할 수 있도록 정규화시킴으로써 애니메이션을 위치값으로 제어 할 수 있게 함.
 
-**Design :** 레벨디자인은 에셋을 받아 재구성했다.
+**Design :** 
 
-### 🤝 프로젝트 내용
-
-메인쇼를 보러가기 전, 복도를 지나 가게 되는데 그 복도의 벽면에 프로젝션 맵핑된 컨텐츠가 보이게 구성. 주인공의 반대 세력인 빨간 불빛을 쏘는 벌이 마치 사용자들을 스캔하듯이 쭉 훑어, 자신의 세력인지 아닌지를 구별하는 스토리를 갖고있다.
+- 모션그래픽 2D 애니메이션을 위해 일러스트레이터에서 작업후 애프터이펙트에서 애니메이션 작업. 2D로 안되는 부분은 유니티에서 3D로 구현함.
+- 튜토리얼 UI, 리워드 게시판 UI, 배틀모드 UI 구현 
 
 ### 🤝 프로젝트 데모
 
-<iframe width="800" height="315" src="https://www.youtube.com/embed/Wp2_ochlWag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/4sWsA__VeuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
