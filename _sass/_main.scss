@@ -264,6 +264,7 @@ header .entry-meta {
 	}
 
 	article {
+		word-wrap: break-word;
 		background-color: #fff;
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.2);
 		border-radius: 3px;
