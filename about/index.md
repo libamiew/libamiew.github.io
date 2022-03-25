@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 이주연
+title: 이주연 자기소개서
 ---
 
 
