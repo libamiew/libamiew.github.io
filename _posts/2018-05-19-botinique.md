@@ -24,4 +24,4 @@ date-string: MAY 19, 2018
 
 ### 🤝 프로젝트 데모
 
-<iframe width="800" height="315" src="https://youtu.be/_C_5CDsAqjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/_C_5CDsAqjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
