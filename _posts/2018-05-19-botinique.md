@@ -5,7 +5,7 @@ title: Seoul Botanic Park - Interaction Mapping
 subtitle: 서울 마곡 식물원
 featured-image: /images/project/park.jpg
 tags: [Unity]
-date-string: APRIL 12, 2021
+date-string: MAY 19, 2018
 ---
 
 ### Introduction
