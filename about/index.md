@@ -50,8 +50,7 @@ title: 안녕하세요 저는,
 <br>
 <h3>Code Editor</h3>
 &nbsp; &nbsp; &nbsp; &nbsp;- Visual Studio 2019<br>
-&nbsp; &nbsp; &nbsp; &nbsp;- Visual Studio Code<br>
-<br>
+&nbsp; &nbsp; &nbsp; &nbsp;- Visual Studio Code
 <h3>Tools</h3>
 &nbsp; &nbsp; &nbsp; &nbsp;- Unity<br>
 &nbsp; &nbsp; &nbsp; &nbsp;- Photoshop<br>
