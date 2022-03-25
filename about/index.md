@@ -45,14 +45,14 @@ title: 안녕하세요 저는,
 <hr>
 
 <h2>🛠️ Uses </h2>
+<h3>Language</h3>
+&nbsp; &nbsp; &nbsp; &nbsp;- C#
 <br>
-- Language : C#
-<br><br>
-- Code Editor<br>
+<h3>Code Editor</h3>
 &nbsp; &nbsp; &nbsp; &nbsp;- Visual Studio 2019<br>
 &nbsp; &nbsp; &nbsp; &nbsp;- Visual Studio Code<br>
-<br><br>
-- Tools<br>
+<br>
+<h3>Tools</h3>
 &nbsp; &nbsp; &nbsp; &nbsp;- Unity<br>
 &nbsp; &nbsp; &nbsp; &nbsp;- Photoshop<br>
 &nbsp; &nbsp; &nbsp; &nbsp;- Illustrator<br>
@@ -63,4 +63,3 @@ title: 안녕하세요 저는,
 &nbsp; &nbsp; &nbsp; &nbsp;- Figma<br>
 &nbsp; &nbsp; &nbsp; &nbsp;- Notion<br>
 &nbsp; &nbsp; &nbsp; &nbsp;- Git<br>
-<br><br>
