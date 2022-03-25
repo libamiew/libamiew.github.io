@@ -42,26 +42,22 @@ title: 이주연
 <br><br>
 🛠️ **Uses**
 <br><br>
-- Language
-    - C#
+- Language<br>
+    - C#<br>
 <br><br>
-- Code Editor
-    - Visual Studio 2019
-    - Visual Studio Code
+- Code Editor<br>
+    - Visual Studio 2019<br>
+    - Visual Studio Code<br>
 <br><br>
-- Tools
-    - Unity
-    - Photoshop
-    - Illustrator
-    - InDesign
-    - Premier Pro
-    - After Effect
-    - Blender
-    - Figma
-    - Notion
-    - Git
+- Tools<br>
+    - Unity<br>
+    - Photoshop<br>
+    - Illustrator<br>
+    - InDesign<br>
+    - Premier Pro<br>
+    - After Effect<br>
+    - Blender<br>
+    - Figma<br>
+    - Notion<br>
+    - Git<br>
 <br><br>
-<aside>
-🌟                                    Copyright -  Juyeon Lee. All rights reserved.
-<br><br>
-</aside>
